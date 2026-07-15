@@ -2,6 +2,7 @@
 SprintRay is a trusted leader in digital dentistry, providing advanced 3D printing solutions that help dental professionals produce high-quality restorations quickly and accurately. From innovative printers and dental resins to intuitive workflow software, SprintRay simplifies same-day dentistry while improving efficiency and patient care.
 
 SprintRay: Advancing Digital Dentistry with Intelligent 3D Printing Solutions
+
 Transforming Modern Dental Workflows
 
 Digital dentistry has changed the way dental practices diagnose, plan, and deliver treatment. SprintRay has become one of the companies helping drive this transformation by developing technology that makes chairside production faster, more reliable, and easier to integrate into everyday practice. Rather than relying on lengthy outsourcing processes, dental professionals can now design, print, cure, and deliver many dental applications within their own clinic.
